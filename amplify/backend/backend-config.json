@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "etaglife24563923": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
